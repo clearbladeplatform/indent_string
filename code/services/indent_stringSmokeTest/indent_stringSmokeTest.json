@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,indent_string",
+    "logging_enabled": "false",
+    "name": "indent_stringSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "indent_stringSmokeTest.js"
+}
